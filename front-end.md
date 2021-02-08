@@ -8,14 +8,13 @@ Bem vindo(a) ao desafio de desenvolvedores front-end na **aftersale**! Leia com 
 Escreva uma aplicação usando React e as bibliotecas da sua escolha, para construir a seguinte cena: Um prédio com 12 janelas. 
 Ao clicar nas janelas o usuário liga e desliga as luzes das janelas. A cena também contém um controle com um botão que permite ligar e desligar todas as janelas. Use a [Sunset Sunrise API](https://sunrise-sunset.org/api) para mudar automaticamente a cena dependendo se está noite ou dia no seu local. Ou seja, utilize API do browser de geolocalização.
 
-Você está livre para usar a sua criatividade.
-
 ### Funcionalidades
 
 - Ao clicar em uma janela, se a luz estiver acesa, ela deve apagar.
 - Ao clicar em uma janela, se a luz estiver apagada, ela deve ser acesa.
 - Ao clicar no botão de controle global, todas as luzes devem ser acesas ou apagadas.
 - O estado inicial das luzes deve ser baseado na sua localidade. Use a Sunrise Sunset API para isso.
+- Vocẽ é livre para escolher o design da sua aplicação. Use o Dribbble para encontrar inspirações.
 
 ## Regras
 
@@ -23,6 +22,7 @@ Você está livre para usar a sua criatividade.
 - Use a API de geolocalização do navegador.
 - Consulte a Sunrise Sunset API usando as suas coordenadas.
 - Não faça commit de credenciais.
+- Não use TailwindCSS ou qualquer outro framework CSS, nós queremos avaliar suas habilidades com CSS também.
 - Entregue pelo menos 25% de cobertura de código com testes.
 
 ## Sugestões
