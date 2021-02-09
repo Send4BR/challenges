@@ -55,11 +55,8 @@ Ficou em dúvida sobre qual tecnologia usar? Aqui na **aftersale** usamos no fro
 
 Você pode nos enviar um projeto incompleto para avaliação. Tudo bem o código não estar o mais organizado possível ou você não usar uma tecnologia da melhor forma possível, um estágio serve justamente para você aprender essas coisas! Porém, esperamos que o seu projeto pelo menos funcione.
 
-Quando você terminar, nos envie um email com o título **Inscrição para estágio em front-end** e link para o repositório do projeto e responda às seguintes perguntas:
+Quando você terminar, nos envie um email com o título **Inscrição para estágio em front-end** e link para o repositório do projeto.
 
-1. O que você achou do desafio?
-2. Porque você está interessado pela vaga?
-3. Quais são seus sonhos de carreira?
 
 Boa Sorte!
 
