@@ -45,7 +45,6 @@ Além das funcionalidades descritas anteriormente, você:
 ## Sugestões
 
 - Especifique no README.md do seu projeto, instruções sobre como executar seu projeto localmente.
-- Especifique no README.md do seu projeto, instruções sobre como executar os testes e colher a cobertura de código.
 - Organize seu projeto em pastas de uma forma coerente.
 - Tudo bem usar algum framework moderno em cima do React, como Next.js ou Gatsby.
 
